@@ -1,0 +1,5 @@
+C:\cygwin\home\hoppedu\.NET-Facebook-Graph-API-SDK\NET-Facebook-GraphAPI-SDK\NET-Facebook-GraphAPI-SDK\obj\Debug\ResolveAssemblyReference.cache
+C:\cygwin\home\hoppedu\.NET-Facebook-Graph-API-SDK\NET-Facebook-GraphAPI-SDK\NET-Facebook-GraphAPI-SDK\bin\Debug\NetFacebookGraphApiSDK.dll
+C:\cygwin\home\hoppedu\.NET-Facebook-Graph-API-SDK\NET-Facebook-GraphAPI-SDK\NET-Facebook-GraphAPI-SDK\bin\Debug\NetFacebookGraphApiSDK.pdb
+C:\cygwin\home\hoppedu\.NET-Facebook-Graph-API-SDK\NET-Facebook-GraphAPI-SDK\NET-Facebook-GraphAPI-SDK\obj\Debug\NetFacebookGraphApiSDK.dll
+C:\cygwin\home\hoppedu\.NET-Facebook-Graph-API-SDK\NET-Facebook-GraphAPI-SDK\NET-Facebook-GraphAPI-SDK\obj\Debug\NetFacebookGraphApiSDK.pdb
