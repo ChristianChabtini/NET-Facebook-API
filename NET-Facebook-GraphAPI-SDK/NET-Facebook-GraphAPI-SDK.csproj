@@ -43,7 +43,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FacebookAPI.cs" />
+    <Compile Include="Model\FacebookAlbum.cs" />
+    <Compile Include="Model\FacebookApplication.cs" />
+    <Compile Include="Model\FacebookCheckin.cs" />
+    <Compile Include="Model\FacebookComment.cs" />
+    <Compile Include="Model\FacebookEvent.cs" />
+    <Compile Include="Model\FacebookFriendList.cs" />
+    <Compile Include="Model\FacebookGroup.cs" />
+    <Compile Include="Model\FacebookInsights.cs" />
+    <Compile Include="Model\FacebookLink.cs" />
+    <Compile Include="Model\FacebookMessage.cs" />
+    <Compile Include="Model\FacebookNote.cs" />
+    <Compile Include="Model\FacebookPage.cs" />
+    <Compile Include="Model\FacebookPhoto.cs" />
+    <Compile Include="Model\FacebookPost.cs" />
+    <Compile Include="Model\FacebookReview.cs" />
+    <Compile Include="Model\FacebookStatusMessage.cs" />
+    <Compile Include="Model\FacebookSubscription.cs" />
+    <Compile Include="Model\FacebookThread.cs" />
     <Compile Include="Model\FacebookUser.cs" />
+    <Compile Include="Model\FacebookVideo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
