@@ -3,3 +3,5 @@ C:\cygwin\home\hoppedu\NET-Facebook-API\MVCSample\bin\MVCSample.pdb
 C:\cygwin\home\hoppedu\NET-Facebook-API\MVCSample\obj\Debug\ResolveAssemblyReference.cache
 C:\cygwin\home\hoppedu\NET-Facebook-API\MVCSample\obj\Debug\MVCSample.dll
 C:\cygwin\home\hoppedu\NET-Facebook-API\MVCSample\obj\Debug\MVCSample.pdb
+C:\cygwin\home\hoppedu\NET-Facebook-API\MVCSample\bin\NetFacebookGraphApiSDK.dll
+C:\cygwin\home\hoppedu\NET-Facebook-API\MVCSample\bin\NetFacebookGraphApiSDK.pdb

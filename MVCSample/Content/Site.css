@@ -26,3 +26,5 @@
 {
     display: none;
 }
+
+img, a { border: none; }
