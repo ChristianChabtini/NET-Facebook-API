@@ -1,4 +1,4 @@
-﻿/*
+﻿﻿/*
  * Copyright (C) 2011 by Joblooter LLC
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -45,29 +45,29 @@
 namespace NetFacebookGraphApiSDK.Model
 {
 
-   public class FacebookUser 
+    public class FacebookUser
     {
         private long _id;
         private string _first_name;
         private string _last_name;
         private string _name;
         private string _birthday;
-       private string _gender;
-       private string _locale;
-       private string _link;
-       private string _third_parth_id;
-       private string _timezone;
-       private string _updated_time;
-       private string _verified;
-       private string _about;
-       private string _bio;
-       private string _email;
-       private string _hometown;
-       private string _interested_in;
-       private string _location;
-       private string _meeting_for;
-       private string _political;
-       private string _quotes;
+        private string _gender;
+        private string _locale;
+        private string _link;
+        private string _third_parth_id;
+        private string _timezone;
+        private string _updated_time;
+        private string _verified;
+        private string _about;
+        private string _bio;
+        private string _email;
+        private string _hometown;
+        private string _interested_in;
+        private string _location;
+        private string _meeting_for;
+        private string _political;
+        private string _quotes;
 
         public long id
         {
